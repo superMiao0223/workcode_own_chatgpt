@@ -1,17 +1,241 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b850cc9-2bea-435d-9cd9-78cb576c80ad" name="Changes" comment="20260513第一次上传8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3Df9z9Y03eZQQIKtPDGuN6s2plC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="workcode_own_chatgpt1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="2b850cc9-2bea-435d-9cd9-78cb576c80ad" name="Changes" comment="" />
       <created>1721803425309</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721803425309</updated>
     </task>
+    <task id="LOCAL-00001" summary="萨达">
+      <option name="closed" value="true" />
+      <created>1778662550965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778662550965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="萨达">
+      <option name="closed" value="true" />
+      <created>1778662643646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778662643646</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20260513第一次上传">
+      <option name="closed" value="true" />
+      <created>1778662984520</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778662984520</updated>
+    </task>
+    <task id="LOCAL-00004" summary="20260513第一次上传">
+      <option name="closed" value="true" />
+      <created>1778663429165</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778663429165</updated>
+    </task>
+    <task id="LOCAL-00005" summary="20260513第一次上传2">
+      <option name="closed" value="true" />
+      <created>1778663468271</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778663468271</updated>
+    </task>
+    <task id="LOCAL-00006" summary="20260513第一次上传2">
+      <option name="closed" value="true" />
+      <created>1778663515787</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778663515787</updated>
+    </task>
+    <task id="LOCAL-00007" summary="20260513第一次上传3">
+      <option name="closed" value="true" />
+      <created>1778663581632</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778663581632</updated>
+    </task>
+    <task id="LOCAL-00008" summary="20260513第一次上传4">
+      <option name="closed" value="true" />
+      <created>1778663640083</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1778663640083</updated>
+    </task>
+    <task id="LOCAL-00009" summary="20260513第一次上传5">
+      <option name="closed" value="true" />
+      <created>1778663669240</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1778663669240</updated>
+    </task>
+    <task id="LOCAL-00010" summary="20260513第一次上传5">
+      <option name="closed" value="true" />
+      <created>1778663761600</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1778663761600</updated>
+    </task>
+    <task id="LOCAL-00011" summary="20260513第一次上传6">
+      <option name="closed" value="true" />
+      <created>1778664216522</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1778664216522</updated>
+    </task>
+    <task id="LOCAL-00012" summary="20260513第一次上传6">
+      <option name="closed" value="true" />
+      <created>1778664298532</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1778664298532</updated>
+    </task>
+    <task id="LOCAL-00013" summary="20260513第一次上传6">
+      <option name="closed" value="true" />
+      <created>1778664383954</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1778664383954</updated>
+    </task>
+    <task id="LOCAL-00014" summary="20260513第一次上传6">
+      <option name="closed" value="true" />
+      <created>1778664396198</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1778664396198</updated>
+    </task>
+    <task id="LOCAL-00015" summary="20260513第一次上传7">
+      <option name="closed" value="true" />
+      <created>1778664441495</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1778664441495</updated>
+    </task>
+    <task id="LOCAL-00016" summary="20260513第一次上传7">
+      <option name="closed" value="true" />
+      <created>1778664556179</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1778664556179</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="萨达" />
+    <MESSAGE value="20260513第一次上传" />
+    <MESSAGE value="20260513第一次上传2" />
+    <MESSAGE value="20260513第一次上传3" />
+    <MESSAGE value="20260513第一次上传4" />
+    <MESSAGE value="20260513第一次上传5" />
+    <MESSAGE value="20260513第一次上传6" />
+    <MESSAGE value="20260513第一次上传8" />
+    <option name="LAST_COMMIT_MESSAGE" value="20260513第一次上传8" />
   </component>
 </project>

@@ -1,0 +1,8 @@
+# 忽略所有密钥/配置文件
+Discord/conf/*.yaml
+Feishubiaodan/*.py
+*.env
+*.secret
+*.key
+config/
+conf/
