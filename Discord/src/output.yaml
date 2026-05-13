@@ -1,0 +1,330 @@
+avText:
+  enUS: Redeemable
+  jaJP: 交換可能
+  koKR: 교환 가능
+  zhCN: 可兑换
+  zhTW: 可兌換
+bindFalse:
+  enUS: 'You have already bound your UID. UID: {0}. If you wish to change the binding,
+    please contact in-game customer service.'
+  jaJP: UID：{0}と連携しました。他のUIDと連携したい場合、カスタマーサポートまでお問い合わせてください。
+  koKR: '이미 연동되었습니다. UID: {0} 연동을 바꾸고 싶으면 인게임 고겍지원으로 문의하시기 바랍니다.'
+  zhCN: 您已绑定过UID。UID：{0}，若想换绑请联系游戏内客服人员
+  zhTW: 您已綁定過UID。UID：{0}，若想換綁請聯繫遊戲內客服人員
+bindLabelName:
+  enUS: Bind your game UID
+  jaJP: UID連携
+  koKR: 인게임 UID와 연동
+  zhCN: 绑定游戏UID
+  zhTW: 綁定遊戲UID
+bindSuccess:
+  enUS: 'You have successfully bound your UID. UID: {0}'
+  jaJP: 連携成功！UID：{0}
+  koKR: '연동 성공! UID: {0}'
+  zhCN: 您已成功绑定UID。UID：{0}
+  zhTW: 您已成功綁定UID。UID：{0}
+bindTitle:
+  enUS: Please bind your game UID
+  jaJP: UIDとの連携をお願い致します
+  koKR: 인게임 UID와 연동하시기 바랍니다.
+  zhCN: 请您绑定游戏UID
+  zhTW: 請您綁定遊戲UID
+checkLabelName:
+  enUS: Query
+  jaJP: チェック
+  koKR: 조회
+  zhCN: 查询
+  zhTW: 查詢
+noCoin:
+  enUS: 'Insufficient points to redeem. Current remaining points: {0}'
+  jaJP: スコアが不足しています、交換できません。残りスコア:{0}
+  koKR: '포인트 부족, 교환 불가, 현재 보유 포인트: {0}'
+  zhCN: 积分不足，无法兑换。目前剩余积分：{0}
+  zhTW: 貨幣不足，無法兌換。目前剩餘貨幣：{0}
+noData:
+  enUS: No data found for you at the moment. Please click the [Check-In] button to
+    check in, or click the [Bind] button and bind your in-game UID before trying again.
+  jaJP: お客様のデータが見つかりませんでした。「サインイン」ボタンまたは「連携」ボタンをタップした後、もう一度試してください。
+  koKR: 정보를 획득할 수 없습니다. 먼저 [출석] 버튼을 클릭하여 출석하거나 [연동] 버튼을 클릭하여 인게임 UID를 연동 후 재시도하시기
+    바랍니다.
+  zhCN: 暂未查询到您的数据，请先点击【签到】按钮进行签到或点击【绑定】按钮，绑定您游戏内的UID后再试
+  zhTW: 暫未查詢到您的數據，請先點擊【簽到】按鈕進行簽到或點擊【綁定】按鈕，綁定您遊戲內的UID後再試
+noGoods:
+  enUS: No additional items available for redemption
+  jaJP: 交換できるアイテムがありません
+  koKR: 교환 가능한 아이템이 없습니다.
+  zhCN: 无多余货物可供兑换
+  zhTW: 無多餘貨物可供兌換
+notSignBind:
+  enUS: 'Remaining points: {0}
+
+    Please click the [Check-In] button to check in first.
+
+    UID: {1}'
+  jaJP: '残りスコア:{0}
+
+    先に「サインイン」ボタンをタップして、サインインしてください。
+
+    UID：{1}'
+  koKR: '남은 포인트: {0}
+
+    먼저 [출석] 버튼을 클릭하여 출석해 주세요.
+
+    UID: {1}'
+  zhCN: '剩余积分：{0}
+
+    请先点击【签到】按钮进行签到
+
+    UID：{1}'
+  zhTW: '剩餘積分：{0}
+
+    請先點擊【簽到】按鈕進行簽到
+
+    UID：{1}'
+notSignNotBind:
+  enUS: '
+
+    Remaining points: {0}
+
+    Please click the [Check-In] button to check in first.
+
+    UID: Your bound UID has not been found. You can click the [Bind] button to bind
+    it.'
+  jaJP: '残りスコア:{0}
+
+    先に「サインイン」ボタンをタップして、サインインしてください。
+
+    UID：お客様のUIDが見つかりませんでした。「連携」ボタンをタップして、UIDとの連携をお願い致します'
+  koKR: '남은 포인트: {0}
+
+    먼저 [출석] 버튼을 클릭하여 출석해 주세요.
+
+    UID: 정보를 획득할 수 없습니다. [연동] 버튼을 클릭하여 인게임 UID를 연동하시기 바랍니다.'
+  zhCN: '剩余积分：{0}
+
+    请先点击【签到】按钮进行签到
+
+    UID：暂未查询到您绑定的UID，可以点击【绑定】按钮，进行绑定哟'
+  zhTW: '剩餘積分：{0}
+
+    請先點擊【簽到】按鈕進行簽到
+
+    UID：暫未查詢到您綁定的UID，可以點擊【綁定】按鈕，進行綁定喲'
+priceStatus:
+  enUS: '```-Price：{0}
+
+
+    -Status:{1}```'
+  jaJP: '```-価格：{0}
+
+
+    -状態:{1}```'
+  koKR: '```-가격격: {0}
+
+
+    -상태: {1}```'
+  zhCN: '```-价格：{0}
+
+
+    -状态:{1}```'
+  zhTW: '```-價格：{0}
+
+
+    -狀態:{1}```'
+redeemLimit:
+  enUS: The maximum redemption limit has been reached
+  jaJP: 交換上限に達しました
+  koKR: 최대 교환 상한 도달
+  zhCN: 已达最大兑换上限
+  zhTW: 已達最大兌換上限
+redeemSuc:
+  enUS: '
+
+    Redemption Successful! Points Used: {0}
+
+    Remaining Points: {1}
+
+    Your Redeem Code: {2}'
+  jaJP: '交換成功！使用スコア：{0}
+
+    残りスコア：{1}
+
+    シリアルコード：{2}'
+  koKR: '교환 성공! {0} 포인트를 사용하였습니다.
+
+    남은 포인트: {1}
+
+    아이템 교환 쿠폰: {2}'
+  zhCN: '兑换成功！消耗积分：{0}
+
+    剩余积分：{1}
+
+    您的兑换码：{2}'
+  zhTW: '兌換成功！消耗貨幣：{0}
+
+    剩餘貨幣：{1}
+
+    您的貨物兌換碼：{2}'
+redeemTitleL:
+  enUS: The following rewards can be redeemed {0} times permanently.
+  jaJP: 以下のアイテムは{0}回のみ交換できます
+  koKR: 계정당 {0}회 교환 가능
+  zhCN: 以下奖励终身可兑换{0}次
+  zhTW: 以下獎勵終身可兌換{0}次
+redeemTitleM:
+  enUS: The following rewards can be redeemed {0} times per month.
+  jaJP: 以下のアイテムは月に{0}回交換できます
+  koKR: 매달 {0}회 교환 가능
+  zhCN: 以下奖励每月可兑换{0}次
+  zhTW: 以下獎勵每月可兌換{0}次
+redeemTitleU:
+  enUS: You can redeem the following rewards
+  jaJP: 以下のアイテムと交換できます
+  koKR: 아래의 아이템 교환 가능
+  zhCN: 可兑换以下奖励
+  zhTW: 可兌換以下獎勵
+redeemTitleW:
+  enUS: The following rewards can be redeemed {0} times per week.
+  jaJP: 以下のアイテムは週に{0}回交換できます
+  koKR: 매주 {0}회 교환 가능
+  zhCN: 以下奖励每周可兑换{0}次
+  zhTW: 以下獎勵每周可兌換{0}次
+signBind:
+  enUS: 'Remaining Points: {0}
+
+    Last Check-in Time: <t:{1}:f>
+
+    UID: {2}'
+  jaJP: '残りスコア:{0}
+
+    最終サインイン時間：<t:{1}:f>
+
+    UID：{2}'
+  koKR: '남은 포인트: {0}
+
+    지난 번 출석 시간: <t:{1}:f>
+
+    UID: {2}'
+  zhCN: '剩余积分：{0}
+
+    上次签到时间：<t:{1}:f>
+
+    UID：{2}'
+  zhTW: '剩餘積分：{0}
+
+    上次簽到時間：<t:{1}:f>
+
+    UID：{2}'
+signEarn:
+  enUS: 'Check-In Successful!
+
+    Points Earned: +{0}.
+
+    See you tomorrow!'
+  jaJP: 'サインイン成功！
+
+    スコア+{0}
+
+    また明日'
+  koKR: '출석 성공
+
+    포인트+{0}
+
+    내일 또 봐요~'
+  zhCN: '签到成功！
+
+    获得积分+{0}。
+
+    明天见哦～'
+  zhTW: '簽到成功！
+
+    獲得積分+{0}。
+
+    明天見哦～'
+signEmbedDes:
+  enUS: Click the [Check-In] button to earn points~ Points can be redeemed for valuable
+    rewards~ Click {0} to enter the redemption channel~ (You can check-in once every
+    24 hours) Click the [Query] button to check your remaining points, last check-in
+    time, and in-game UID information. Click the [Bind] button to bind your in-game
+    UID (Binding UID will earn you 1 point)
+  jaJP: ''
+  koKR: '[출석] 버튼을 클릭하면 포인트를 획득할 수 있습니다.
+
+    포인트로 보상을 교환할 수 있습니다.
+
+    {0} 클릭하면 교환 화면으로 이동할 수 있습니다.
+
+    (24시간 내에 1번만 출석 가능)
+
+    [조회] 버튼을 클릭하면 남은 포인트, 지난 번 출석 시간과 인게임 UID를 확인할 수 있습니다.
+
+    [연동] 버튼을 클릭하면 인게임 UID와 연동할 수 있습니다.(UID와 연동 성공 후 포인트 1점 획득 가능)'
+  zhCN: '点击【签到】按钮可获得积分哟～
+
+    积分可以兑换超值奖励～
+
+    点击{0}可进入兑换频道哟～
+
+    （每24小时可签到1次）
+
+    点击【查询】按钮可获取剩余积分、上次签到时间及游戏内UID信息
+
+    点击【绑定】按钮，可绑定游戏内UID（绑定UID可获得1积分）'
+  zhTW: '點擊【簽到】按鈕可獲得積分喲～
+
+    積分可以兌換超值獎勵～
+
+    點擊{0}可進入兌換頻道喲～
+
+    （每24小時可簽到1次）
+
+    點擊【查詢】按鈕可獲取剩餘積分、上次簽到時間及遊戲內UID信息
+
+    點擊【綁定】按鈕，可綁定遊戲內UID（綁定UID可獲得1積分）'
+signFalse:
+  enUS: Please check in again after <t:{0}:f>~
+  jaJP: <t:{0}:f>後、サインインできます
+  koKR: <t:{0}:f> 후 다시 출석할 수 있습니다.
+  zhCN: 请于<t:{0}:f>后再次签到哟～
+  zhTW: 請於<t:{0}:f>後再次簽到喲～
+signLabelName:
+  enUS: Check-In
+  jaJP: サインイン
+  koKR: 출석
+  zhCN: 签到
+  zhTW: 簽到
+signNotBind:
+  enUS: '
+
+    Remaining Points: {0}
+
+    Last Check-in Time: <t:{1}:f>
+
+    UID: Your bound UID has not been found. You can click the [Bind] button to bind
+    it.'
+  jaJP: '残りスコア:{0}
+
+    最終サインイン時間：<t:{1}:f>
+
+    UID：お客様のUIDが見つかりませんでした。「連携」ボタンをタップして、UIDとの連携をお願い致します'
+  koKR: '남은 포인트: {0}
+
+    지난 번 출석 시간: <t:{1}:f>
+
+    UID: 정보를 획득할 수 없습니다. [연동] 버튼을 클릭하여 인게임 UID를 연동하시기 바랍니다.'
+  zhCN: '剩余积分：{0}
+
+    上次签到时间：<t:{1}:f>
+
+    UID：暂未查询到您绑定的UID，可以点击【绑定】按钮，进行绑定哟'
+  zhTW: '剩餘積分：{0}
+
+    上次簽到時間：<t:{1}:f>
+
+    UID：暫未查詢到您綁定的UID，可以點擊【綁定】按鈕，進行綁定喲'
+unAvText:
+  enUS: Non-redeemable
+  jaJP: 交換不可
+  koKR: 교환 불가
+  zhCN: 不可兑换
+  zhTW: 不可兌換

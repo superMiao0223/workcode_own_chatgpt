@@ -1,0 +1,27 @@
+csvInfo:
+  -
+    productName: "龙骑士-日本"
+    basedata:
+      -
+        dateType: "day"
+        dataSort: "account"
+        filePath: "src/日报-基础概况（zql_20240627-20240731.csv"
+        area: "日本"
+        timezone: "+09:00"
+        tzType: "1"
+    ltv:
+      -
+        dateType: "day"
+        dataSort: "account"
+        filePath: "src/LTV_20240627-20240731.csv"
+        area: "日本"
+        timezone: "+09:00"
+        tzType: "1"
+    retention:
+      -
+        dateType: "day"
+        dataSort: "account"
+        filePath: "src/留存率_20240627-20240731.csv"
+        area: "日本"
+        timezone: "+09:00"
+        tzType: "1"

@@ -1,0 +1,100 @@
+headers:
+  User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+  Content-Type: application/json
+  Origin: https://www.data.ai
+  Cookie: ""
+
+payload:
+  "facets":
+    - "est_revenue__sum"
+  "filters":
+    "date":
+      "between":
+        - "2024-03-23"
+        - "2024-06-19"
+    "granularity":
+      "equal": "daily"
+    "product_id":
+      "in":
+        - 6475033368
+    "country_code":
+      "in":
+    "device_code":
+      "equal": "ios-phone"
+  "breakdowns":
+    "country_code":
+    "date":
+  "order_by":
+    -
+      "name": "date"
+      "order": "asc"
+  "fields":
+    "device_code":
+      "fields":
+        - "name"
+    "country_code":
+      "fields":
+        - "name"
+
+
+resInfo:
+  getdataN:
+    -
+      customerName: "鸣潮"
+      typeInfo:
+        - "est_download__sum"
+        - "est_revenue__sum"
+      dateInfo:
+        - "2024-01-01"
+        - "2024-06-24"
+      shopInfo:
+        iOS:
+          product_id:
+            - "6475033368"
+            - "6450693428"
+          equal: "ios-all"
+        Google:
+          product_id:
+            - "20600018866071"
+          equal: "android-all"
+    -
+      customerName: "王者荣耀"
+      typeInfo:
+        - "est_download__sum"
+        - "est_revenue__sum"
+      dateInfo:
+        - "2023-01-01"
+        - "2024-06-25"
+      shopInfo:
+        iOS:
+          product_id:
+            - "1619254071"
+          equal: "ios-all"
+        Google:
+          product_id:
+            - "20600016879072"
+          equal: "android-all"
+  getdataY:
+    -
+      customerName: "菇勇者传说"
+      typeInfo:
+        - "est_download__sum"
+        - "est_revenue__sum"
+      dateInfo:
+        - "2023-01-01"
+        - "2024-06-25"
+      shopInfo:
+        iOS:
+          product_id:
+            - "6466405648"
+            - "6467117398"
+            - "6473767344"
+            - "6475333787"
+          equal: "ios-all"
+        Google:
+          product_id:
+            - "20600018529979"
+            - "20600018558719"
+            - "20600018716720"
+            - "20600018721833"
+          equal: "android-all"
