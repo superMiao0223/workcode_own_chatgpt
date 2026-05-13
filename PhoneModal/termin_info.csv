@@ -1,0 +1,519 @@
+,termin_info,num,dtype,brand,brand_title,code,code_alias,model_name,ver_name
+0,NX709S,1,mob,nubia,努比亚,,,红魔 7S Pro,#
+1,V2002A,3,mob,vivo,vivo,,PD2019,Y70t,#5G
+2,SM-W9024,1,mob,samsung,三星,,v5q,三星 W24,#
+3,21121210C,3,mob,xiaomi,Xiaomi,L10,ingres,Redmi K50G,#China
+4,22101317C,3,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,1#China
+5,RMX3361,1,mob,realme,realme,,lunaa,真我 GT 大师版,#
+6,RMX2173,2,mob,realme,realme,,,真我 Q2 Pro,#5G
+7,V2055A,3,mob,vivo,vivo,,PD2055,iQOO Neo5,#
+8,V2426A,3,mob,vivo,vivo,,PD2426,iQOO Neo10 Pro,#
+9,MGA-AL00,1,mob,huawei,华为,,Mega,华为畅享 50,#
+10,23049RAD8C,24,mob,xiaomi,Xiaomi,M16T,marble,Redmi Note 12 Turbo,#China
+11,V2285A,3,mob,vivo,vivo,,PD2285,S17e,#
+12,PBFM00,1,mob,oppo,OPPO,,,OPPO A7,#全网通版
+13,2304FPN6DC,2,mob,xiaomi,Xiaomi,M1,ishtar,Xiaomi 13 Ultra,#China
+14,RMX3560,2,mob,realme,realme,,,真我 GT Neo3,#80W
+15,RMX3551,1,mob,realme,realme,,,真我 GT2 大师探索版,#
+16,V1962A,2,mob,vivo,vivo,,PD1962,S6,#
+17,NX721J,5,mob,nubia,努比亚,,,Z60 Ultra|Z60 Ultra 领先版,1#
+18,NX669J,2,mob,nubia,努比亚,,,腾讯红魔游戏手机 6,#
+19,V2005A,1,mob,vivo,vivo,,PD2005,X50 Pro,#
+20,V2301A,17,mob,vivo,vivo,,PD2301,iQOO Neo8,#
+21,SKW-A0,2,mob,blackshark,BlackShark,,skywalker,Black Shark 2,#China
+22,OCE-AN10,2,mob,huawei,华为,,Ocean,HUAWEI Mate 40,#5G
+23,PCNM00,1,mob,oppo,OPPO,,,OPPO K5,#全网通版
+25,PGGM10,4,mob,oppo,OPPO,,oscar-y,OPPO K10x,#
+27,V2314DA,1,mob,vivo,vivo,,PD2314,Y100t,#5G
+28,SHARK PAR-A0,2,mob,blackshark,BlackShark,,patriot,Black Shark 5,#China
+29,PBAM00,2,mob,oppo,OPPO,,,OPPO A5,#全网通版
+30,V2231A,5,mob,vivo,vivo,,PD2231,iQOO Neo7,#
+31,M2011K2C,4,mob,xiaomi,Xiaomi,K2,venus,Mi 11,#China
+33,WGR-W09,1,pad,huawei,HUAWEI,,Wagner,HUAWEI MatePad Pro 12.6 2021,#Wi-Fi
+34,SDY-AN00,1,mob,honor,荣耀,,Sandy,荣耀 70 Pro,#
+35,SM-G9910,1,mob,samsung,Samsung,,o1q,Galaxy S21,#5G China
+37,ANN-AN00,2,mob,honor,荣耀,,Anna,荣耀 80,#
+38,XT2175-2,1,mob,motorola,Motorola,,xpeng,moto edge S30,#
+39,DBY2-W00,1,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 Wi-Fi 版
+40,2308CPXD0C,1,mob,xiaomi,Xiaomi,M18,babylon,Xiaomi MIX Fold 3,#China
+41,NOH-AN00,3,mob,huawei,华为,,Noah,HUAWEI Mate 40 Pro,#5G
+42,TEL-AN10,1,mob,honor,荣耀,,Teller,荣耀 X10,#5G 全网通版
+43,V2302A,7,mob,vivo,vivo,,PD2302,iQOO Neo8 Pro,#
+44,24069RA21C,9,mob,xiaomi,Xiaomi,N16T,peridot,Redmi Turbo 3,#China
+45,ELS-TN00,1,mob,huawei,华为,,Elsa,HUAWEI P40 Pro,#5G 移动版
+46,REA-AN00,5,mob,honor,荣耀,,Rhea,荣耀 90,#
+47,PHK110,12,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,1#China / Genshin Impact Edition
+48,JEF-AN00,4,mob,huawei,华为,,Jennifer,HUAWEI nova 7,#5G 全网通版
+49,PGX110,1,mob,oppo,OPPO,,linhai,OPPO Reno9 Pro,#
+50,TB331FC,1,pad,lenovo,联想,,Balsa,小新 Pad 2024,#
+51,V2106A,1,mob,vivo,vivo,,PD2106,iQOO U3x,#5G
+52,JAD-AL80,3,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#骁龙 888
+53,TET-AN50,1,mob,huawei,华为,,Teton,HUAWEI Mate X2,#典藏版 5G
+54,V2168A,1,mob,vivo,vivo,,PD2168,Y32t,#P70
+55,RKY-AN00,1,mob,honor,荣耀,,Rocky,荣耀畅玩 40 Plus,#5G
+56,ELS-AN00,10,mob,huawei,华为,,Elsa,HUAWEI P40 Pro,#5G 全网通版
+57,V2036A,3,mob,vivo,vivo,,PD2036,Y30 标准版,#
+58,LSA-AN00,4,mob,honor,荣耀,,Lisa,荣耀 60,#5G
+59,V2171A,2,mob,vivo,vivo,,PD2171,iQOO 9,#
+60,BAL-AN20,1,mob,zhixuan,华为智选,,,Hi 畅享 70 Pro,#5G
+61,V2244A,3,mob,vivo,vivo,,PD2244,S16,#
+62,PPA-AL20,1,mob,huawei,华为,,Peppa,华为畅享 20 SE,#
+63,V2243A,4,mob,vivo,vivo,,PD2243,iQOO 11,#
+64,V1832A,1,mob,vivo,vivo,,PD1832,S1 Pro,#全网通版
+65,M2010J19SC,1,mob,xiaomi,Xiaomi,J19S,lime,Redmi Note 9 4G,#China
+66,MAO-AL00,1,mob,huawei,华为,,Mario,华为畅享 60 Pro,#
+67,FIN-AL60,2,mob,huawei,华为,,Fiona,HUAWEI nova 12 活力版,#
+68,V2339A,5,mob,vivo,vivo,,PD2339,iQOO Neo9 Pro,#
+69,XQ-BC72,1,mob,sony,索尼,,,Xperia 1 III,#
+70,ANG-AN00,4,mob,huawei,华为,,Angela,HUAWEI nova 8,#5G
+71,LIO-AL00,3,mob,huawei,华为,,Lion,HUAWEI Mate 30 Pro,#全网通版
+72,PCLM10,1,mob,oppo,OPPO,,,OPPO Reno Ace,#
+73,SM-S9110,1,mob,samsung,Samsung,,dm1q,Galaxy S23,#China
+74,TYH601M,1,mob,zhixuan,华为智选,,,麦芒 9,#5G
+75,TNA-AN00,1,mob,honor,荣耀,,Tina,荣耀 60 Pro,#5G 全网通版
+76,NX712J,2,mob,nubia,努比亚,,,Z50 Ultra,#
+77,V2218A,3,mob,vivo,vivo,,PD2218,iQOO 10 Pro,#
+78,PFJM10,3,mob,oppo,OPPO,,libai,OPPO Reno7,#
+79,ALN-AL80,16,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
+80,V1916A,2,mob,vivo,vivo,,PD1916,iQOO Pro 5G,#全网通版
+81,TAS-AL00,4,mob,huawei,华为,,Taurus,HUAWEI Mate 30,#全网通版
+82,PJE110,5,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,#China / Genshin Impact Edition
+83,V2232A,4,mob,vivo,vivo,,PD2232,iQOO Neo7 竞速版,#
+84,BAH3-W59,1,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 820)
+85,MXW-AN00,1,mob,honor,荣耀,,Maxwell,荣耀 30 青春版,#5G 全网通版
+86,SM-G9750,2,mob,samsung,Samsung,,beyond2q,Galaxy S10+,#China
+87,JSN-AL00,1,mob,honor,荣耀,,Johnson,荣耀 8X,#全网通版
+88,ANA-AN00,5,mob,huawei,华为,,Anna,HUAWEI P40,#5G 全网通版
+89,PEHM00,1,mob,oppo,OPPO,,,OPPO A93,#全网通版
+90,PJB110,2,mob,oppo,OPPO,,fanli,OPPO A1s|OPPO A2,1#
+91,PDHM00,2,mob,oppo,OPPO,,,OPPO Ace2,#
+92,PGT-AN10,4,mob,honor,荣耀,,Piaget,荣耀 Magic5 Pro,#
+93,M2007J3SC,1,mob,xiaomi,Xiaomi,J3S,apollo,Redmi K30S Ultra,#China
+94,LE2110,1,mob,oneplus,OnePlus,,lemonade,OnePlus 9,#China
+95,PEYM00,2,mob,oppo,OPPO,,tiga,OPPO K9 Pro,#
+96,SM-N9700,1,mob,samsung,Samsung,,d1q,Galaxy Note10,#China
+97,V2303A,2,mob,vivo,vivo,,PD2303,X Fold3,#
+99,V2270A,2,mob,vivo,vivo,,PD2270,iQOO Z7,#
+100,GAR-AN60,1,mob,zhixuan,华为智选,,,Hi 畅享 60s,#5G
+101,V2115A,1,mob,vivo,vivo,,PD2115,T1,#
+102,ALA-AN70,1,mob,honor,荣耀,,,荣耀 V40 轻奢版,#5G
+103,M2012K10C,1,mob,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,#China
+104,SM-W7023,1,mob,samsung,三星,,e4q,三星 W23 Flip,#
+106,HWI-AL00,2,mob,huawei,华为,,Hawaii,HUAWEI nova 2s,#全网通版
+107,V2172A,4,mob,vivo,vivo,,PD2172,iQOO 9 Pro,#
+108,V2156A,5,mob,vivo,vivo,,PD2156,Y76s,#5G
+109,SM-A5260,1,mob,samsung,Samsung,,a52xq,Galaxy A52 5G,#China
+110,V1981A,1,mob,vivo,vivo,,PD1981,iQOO Neo3,#
+111,SM-G9350,1,mob,samsung,三星,,hero2qltechn,Galaxy S7 edge,#
+112,SM-G7810,1,mob,samsung,Samsung,,r8q,Galaxy S20 FE,#5G China
+113,NX789J,2,mob,nubia,努比亚,,,红魔 10 Pro|红魔 10 Pro+,1#
+115,KB2000,2,mob,oneplus,OnePlus,,kebab,OnePlus 8T,#China
+116,SM-S9260,1,mob,samsung,Samsung,,e2q,Galaxy S24+,#China
+117,22101316C,1,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#China
+118,V2359A,3,mob,vivo,vivo,,PD2359,X100s,#
+119,V2283A,1,mob,vivo,vivo,,PD2283,S17,#
+120,PHW110,1,mob,oppo,OPPO,,taylor,OPPO Reno10,#
+121,V2068A,1,mob,vivo,vivo,,PD2068,Y31s (t1 版),#5G
+122,SM-S9280,1,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#China
+123,V2046A,1,mob,vivo,vivo,,PD2046,X60,#
+124,RMX3350,1,mob,realme,realme,,,真我 GT Neo 闪速版,#
+125,HBP-AL00,3,mob,huawei,华为,,HepburnP,HUAWEI Pura 70 Ultra,#
+127,2407FRK8EC,15,mob,xiaomi,Xiaomi,N12,rothko,Redmi K70 Ultra,#China
+128,NX713J,1,mob,nubia,努比亚,,,Z50S Pro,#
+129,CND-AN00,1,mob,huawei,华为,,CindyMN,HUAWEI nova 7 SE 5G 活力版,#
+130,AMM-AN00,2,mob,honor,荣耀,,,荣耀 300,#
+131,24090RA29C,1,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,#China
+133,LGE-AN00,1,mob,honor,荣耀,,Lange,荣耀 Magic4,#
+134,V2354A,3,mob,vivo,vivo,,PD2354,Y100+|Y200i|Y200+,2#5G
+136,SUP-BD00,1,mob,zhixuan,华为智选,,,Hi nova 12 SE,#5G
+137,V2339FA,7,mob,vivo,vivo,,PD2339,iQOO Neo9S Pro,#
+138,22127RK46C,12,mob,xiaomi,Xiaomi,M11,socrates,Redmi K60 Pro,#China
+139,V1938T,3,mob,vivo,vivo,,PD1938,X30 Pro,#5G 移动全网通版
+140,PDYM20,1,mob,oppo,OPPO,,,OPPO A72,#全网通版
+141,PJX110,2,mob,oneplus,OnePlus,,corvette,OnePlus Ace 3 Pro,#China
+142,V2318A,2,mob,vivo,vivo,,PD2318,G2,#5G
+143,ICL-AL10,1,mob,huawei,华为,,,HUAWEI Mate X6,#
+144,PHV110,1,mob,oppo,OPPO,,viven,OPPO Reno10 Pro,#
+145,BKY-W10,1,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,#12 英寸 Wi-Fi 版 (12GB+256GB)
+147,LNA-AL00,4,mob,huawei,华为,,Leona,HUAWEI P60,#
+149,V2185A,1,mob,vivo,vivo,,PD2185,X80 Pro,#
+150,PHB110,1,mob,oneplus,OnePlus,,salami,OnePlus 11,#China
+151,23090RA98C,3,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#China
+152,2311DRK48C,4,mob,xiaomi,Xiaomi,N11A,duchamp,Redmi K70E,#China
+153,V2238A,9,mob,vivo,vivo,,PD2238,iQOO Neo7 SE,#
+154,KOZ-AL00,1,mob,honor,荣耀,,KonanZ,荣耀畅玩 20,#
+155,24018RPACC,1,pad,xiaomi,Xiaomi,N81A,sheng,Xiaomi Pad 6S Pro 12.4,#China
+156,2210132C,6,mob,xiaomi,Xiaomi,M2,nuwa,Xiaomi 13 Pro,#China
+157,ALT-AL10,2,mob,huawei,华为,,Alta,HUAWEI Mate X5,#
+158,XQ-DQ72,1,mob,sony,索尼,,,Xperia 1 V,#
+159,PA2170,1,pad,vivo,vivo,,DPD2106,Pad,#
+160,M2104K10AC,3,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
+161,PDSM00,2,mob,oppo,OPPO,,chaka,OPPO Reno5 Pro,#全网通版
+162,RMX3820,2,mob,realme,realme,,zonda,真我 GT5,#150W
+163,V1813BA,1,mob,vivo,vivo,,PD1813B,Z3,#全网通版 (骁龙 670)
+164,V2353A,2,mob,vivo,vivo,,PD2353,iQOO Z9x,#
+165,LIO-AN00m,3,mob,huawei,华为,,Lion,HUAWEI Mate 30E Pro,#5G
+166,SM-S9060,1,mob,samsung,Samsung,,g0q,Galaxy S22+,#China
+167,V2072A,1,mob,vivo,vivo,,PD2072,S9,#
+168,V2352A,5,mob,vivo,vivo,,PD2352,iQOO Z9 Turbo,#
+169,VER-AN10,1,mob,honor,荣耀,,Veyron,荣耀 Magic V2 RSR 保时捷设计,#
+170,ICL-AL20,2,mob,huawei,华为,,,HUAWEI Mate X6,#典藏版
+171,PBBT00,1,mob,oppo,OPPO,,,OPPO A7x,#移动版
+172,V2001A,2,mob,vivo,vivo,,PD2001,X50,#
+173,PHU110,2,mob,oppo,OPPO,,monroe,OPPO Reno10 Pro+,#
+174,GM1900,1,mob,oneplus,OnePlus,,guacamoleb,OnePlus 7,#China
+175,HBN-AL10,1,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro+,#
+176,PJZ110,4,mob,oneplus,OnePlus,,dodge,OnePlus 13,#China
+177,NCO-AL00,3,mob,huawei,华为,,Nicole,HUAWEI nova 10,#
+178,iPA2375,1,pad,vivo,vivo,,DPD2307,iQOO Pad,#
+179,PERM10,1,mob,oppo,OPPO,,walle,OPPO K9s,#10 活力版
+180,HD1900,1,mob,oneplus,OnePlus,,hotdogb,OnePlus 7T,#China
+181,ALN-AL00,19,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
+182,MGA-AL40,1,mob,huawei,华为,,Mega,华为畅享 70z,#
+183,FIN-AL60a,1,mob,huawei,华为,,Fiona,HUAWEI nova 12 活力版,#
+184,PJJ110,2,mob,oppo,OPPO,,daoxiang,OPPO Reno11 Pro,#
+185,V2338A,12,mob,vivo,vivo,,PD2338,iQOO Neo9,#
+186,SM-S9160,1,mob,samsung,Samsung,,dm2q,Galaxy S23+,#China
+187,23054RA19C,8,mob,xiaomi,Xiaomi,L16S,pearl,Redmi Note 12T Pro,#China
+188,PGT-AN20,2,mob,honor,荣耀,,Piaget,荣耀 Magic5 至臻版,#
+189,ELI-AN00,3,mob,honor,荣耀,,Ellie,荣耀 200,#
+190,DVC-AN20,1,mob,huawei,华为,,Davinci,华为畅享 20 Pro,#5G 全网通版
+191,V2361A,1,mob,vivo,vivo,,PD2361,iQOO Z9,#
+192,NOH-AN50,1,mob,huawei,华为,,Noah,HUAWEI Mate 40E Pro,#5G
+193,PIC-AL00,1,mob,huawei,华为,,Picasso,HUAWEI nova 2,#全网通版
+194,V2405A,2,mob,vivo,vivo,,PD2405,X200 Pro,#
+196,M2004J19C,1,mob,xiaomi,Xiaomi,J19,lancelot,Redmi 9|Redmi 9 Prime,#China
+197,PKB110,2,mob,oppo,OPPO,,yala,OPPO Find X8,#
+198,BTK-W00,1,pad,huawei,华为,,Bartok,HUAWEI MatePad,#11.5 英寸 2023 Wi-Fi 版
+199,V2031EA,1,mob,vivo,vivo,,PD2031EA,S7e 活力版,#
+200,M2102K1AC,5,mob,xiaomi,Xiaomi,K1A,star,Mi 11 Pro,#China
+201,SHARK KTUS-A0,2,mob,blackshark,BlackShark,,katyusha,Black Shark 5 Pro,#China
+202,Lenovo L71091,1,mob,lenovo,联想,,halo,联想拯救者 Y70,#
+203,RMX3888,3,mob,realme,realme,,,真我 GT5 Pro,#
+204,PBEM00,1,mob,oppo,OPPO,,,OPPO R17,#全网通版
+206,SM-S7110,1,mob,samsung,Samsung,,r11q,Galaxy S23 FE,#China
+207,V2065A,1,mob,vivo,vivo,,PD2065,iQOO U1x,#
+208,22081212C,11,mob,xiaomi,Xiaomi,L12,diting,Redmi K50 Ultra,#China
+209,V2364A,3,mob,vivo,vivo,,PD2364,S19,#
+210,NE2210,2,mob,oneplus,OnePlus,,negroni,OnePlus 10 Pro,#China
+211,V1932A,2,mob,vivo,vivo,,PD1932,S5,#全网通版
+212,M2102J2SC,3,mob,xiaomi,Xiaomi,J2S,thyme,Mi 10S,#China
+213,RMX2200,1,mob,realme,realme,,,真我 V3,#5G 全网通版
+214,DBY-W09,3,pad,huawei,HUAWEI,,Debussy,HUAWEI MatePad C7,#Wi-Fi
+215,ZTE 7541N,1,mob,zte,中兴,,,中兴远航 41,#
+216,24031PN0DC,4,mob,xiaomi,Xiaomi,N1,aurora,Xiaomi 14 Ultra,#China
+217,PDEM10,1,mob,oppo,OPPO,,,OPPO Find X2,#全网通版
+218,JDY-AN00,2,mob,honor,荣耀,,Judy,荣耀畅玩 50|荣耀畅玩 50m,1#5G
+219,PJC110,1,mob,oppo,OPPO,,ziti,OPPO K11,#
+220,ELE-AL00,8,mob,huawei,华为,,Elle,HUAWEI P30,#全网通版
+221,JNY-AL10,1,mob,huawei,华为,,Jenny,HUAWEI nova 6 SE,#全网通版
+222,SM-S9080,3,mob,samsung,Samsung,,b0q,Galaxy S22 Ultra,#China
+223,BNE-AL00,5,mob,huawei,华为,,Bonnie,HUAWEI nova 10 SE,#
+225,V2020A,1,mob,vivo,vivo,,PD2020,S7,#
+226,PCHM10,1,mob,oppo,OPPO,,,OPPO A11,#全网通版
+227,2107119DC,1,mob,xiaomi,Xiaomi,K9D,lisa,Xiaomi 11 Lite 5G NE / Mi 11 LE,Mi 11 LE China
+228,ANY-AN00,2,mob,honor,荣耀,,Andy,荣耀 X30,#5G
+229,PEGT10,1,mob,oppo,OPPO,,wudang,OPPO Reno5 K,#移动版
+230,22120RN86C,1,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#China
+231,JLH-AN00,2,mob,honor,荣耀,,JuliaH,荣耀 50 SE,#5G
+233,V1824A,1,mob,vivo,vivo,,PD1824,iQOO,#8GB+128GB/8GB+256GB/12GB+128GB/12GB+256GB
+234,SPN-AL00,1,mob,huawei,华为,,Saipan,HUAWEI nova 5z,#全网通版
+235,FNE-AN00,10,mob,honor,荣耀,,Fennie,荣耀 70,#
+236,PEDM00,3,mob,oppo,OPPO,,horee,OPPO Find X3,#
+237,PGKM10,2,mob,oneplus,OnePlus,,pickle,OnePlus 10R|OnePlus Ace,1#China
+238,V2241A,3,mob,vivo,vivo,,PD2241,X90,#
+239,23127PN0CC,26,mob,xiaomi,Xiaomi,N3,houji,Xiaomi 14,#China
+240,V2323A,1,mob,vivo,vivo,,PD2323,S18,#
+241,ADT-AN00,2,mob,honor,荣耀,,AndyGT,荣耀 X40 GT|荣耀 X40 GT 竞速版,1#
+242,SM-G9900,1,mob,samsung,Samsung,,r9q,Galaxy S21 FE,#5G China
+243,WDY-AN00,3,mob,honor,荣耀,,Woody,荣耀畅玩 40|荣耀畅玩 40C|荣耀畅玩 40S,2#5G
+244,PGJM10,4,mob,oppo,OPPO,,,OPPO K10,#
+245,V2324A,2,mob,vivo,vivo,,PD2324,X100 Pro,#
+246,KKG-AN00,1,mob,honor,荣耀,,Kingkong,荣耀 X10 Max,#5G
+247,RMX3700,3,mob,realme,realme,,,真我 GT Neo5 SE,#
+248,V2203A,3,mob,vivo,vivo,,PD2203,S15,#
+249,BAH4-W19,1,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
+251,PHT110,1,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,#
+252,TB320FC,1,pad,lenovo,联想,,asphalt,拯救者平板 Y700 2023,#
+253,FGD-AL00,1,mob,huawei,华为,,Garfield,华为畅享 70,#
+254,KRJ2-W09,1,pad,honor,荣耀,,Karajan2,荣耀平板 V7,#10.4 英寸 Wi-Fi 版
+255,SP100,1,mob,zhixuan,华为智选,,,NZONE S7,#5G
+256,JER-AN20,1,mob,huawei,华为,,JenniferR,HUAWEI nova 7 Pro,#5G 全网通版
+257,LIO-AN00,8,mob,huawei,华为,,Lion,HUAWEI Mate 30 Pro,#5G 全网通版
+258,22122RK93C,2,mob,xiaomi,Xiaomi,M11R,rembrandt,Redmi K60E,#China
+259,NX709J,1,mob,nubia,努比亚,,,红魔 7 Pro,#
+260,V2154A,4,mob,vivo,vivo,,PD2154,iQOO Neo5S,#
+263,V2049A,2,mob,vivo,vivo,,PD2049,iQOO 7,#
+264,2410DPN6CC,5,mob,xiaomi,Xiaomi,O2,haotian,Xiaomi 15 Pro,#China
+265,PFDM00,1,mob,oppo,OPPO,,mozi,OPPO Reno7 Pro,#
+266,M2007J22C,1,mob,xiaomi,Xiaomi,J22,cannon,Redmi Note 9 5G,#China
+267,TFY-AN00,1,mob,honor,荣耀,,Tiffany,荣耀 X30i,#5G
+268,22041216UC,4,mob,xiaomi,Xiaomi,L16U,xaga,Redmi Note 11T Pro+,#5G China
+269,DBR-W10,2,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 英寸 2023,#柔光版 Wi-Fi 版
+270,PEUM00,1,mob,oppo,OPPO,,peacock,OPPO Find N,#
+272,OCE-AN50,2,mob,huawei,华为,,Ocean,HUAWEI Mate 40E,#5G
+273,CET-AL60,2,mob,huawei,华为,,Cetus-,HUAWEI Mate 50E,#
+274,NX769J,10,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,1#
+275,REP-AN00,3,mob,honor,荣耀,,RheaP,荣耀 90 Pro,#
+276,V2344A,1,mob,vivo,vivo,,PD2344,S18 Pro,#
+277,V2254A,5,mob,vivo,vivo,,PD2254,iQOO 11 Pro,#
+278,NTH-AN00,6,mob,honor,荣耀,,Nottingham,荣耀 50,#5G
+279,V2219A,1,mob,vivo,vivo,,PD2219,Y77,#5G
+280,21091116AC,3,mob,xiaomi,Xiaomi,K16A,evergo,Redmi Note 11 5G|Redmi Note 11T,#China
+281,PGFM10,1,mob,oppo,OPPO,,luna,OPPO Find X6,#
+282,VOG-AL10,2,mob,huawei,华为,,Vogue,HUAWEI P30 Pro,#全网通版
+283,V2133A,3,mob,vivo,vivo,,PD2133,X70,#
+284,V2230A,2,mob,vivo,vivo,,PD2230,Y53t,#5G
+285,CLK-AN00,1,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,#5G
+286,V2366HA,1,mob,vivo,vivo,,PD2366,X100 Ultra,#卫星通信版
+287,DUB-AL00,1,mob,huawei,华为,,Dubai,华为畅享 9,#全网通标配/高配版
+288,V1938CT,1,mob,vivo,vivo,,PD1938C,X30,#5G 移动全网通版
+290,M2007J17C,1,mob,xiaomi,Xiaomi,J17,gauguin,Redmi Note 9 Pro,#5G China
+291,VNE-AN40,1,mob,honor,荣耀,,Vinnie,荣耀畅玩 30M,#5G
+292,ZTE A2023P,1,mob,zte,中兴,,,中兴天机 A41 Ultra 至尊版,#
+293,2112123AC,4,mob,xiaomi,Xiaomi,L3A,psyche,Xiaomi 12X,#China
+294,21091116C,4,mob,xiaomi,Xiaomi,K16,pissarro,Redmi Note 11 Pro,#5G China
+295,24117RK2CC,6,mob,xiaomi,Xiaomi,O11,zorn,REDMI K80,#China
+296,PGEM10,1,mob,oppo,OPPO,,wukong,OPPO Find X6 Pro,#
+297,V2415A,1,mob,vivo,vivo,,PD2415,X200,#
+298,RMX5060,1,mob,realme,realme,,,真我 Neo7,#
+299,RMX3461,2,mob,realme,realme,,,9 5G Speed Edition,#India
+300,2312DRA50C,2,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#China
+302,PGCM10,3,mob,oppo,OPPO,,apollo-o,OPPO K9x,#
+304,RMX3708,4,mob,realme,realme,,,真我 GT Neo5,#240W
+306,2201122C,3,mob,xiaomi,Xiaomi,L2,zeus,Xiaomi 12 Pro,#China
+307,NEW-AN90,1,mob,honor,荣耀,,NewtonH,荣耀 Play5 活力版,#5G
+308,YAL-AL00,4,mob,honor,荣耀,,Yale,荣耀 20,#全网通版
+309,BVL-AN20,2,mob,honor,荣耀,,Bvlgari,荣耀 Magic6 RSR 保时捷设计,#
+310,2201123C,4,mob,xiaomi,Xiaomi,L3,cupid,Xiaomi 12,#China
+311,2211133C,15,mob,xiaomi,Xiaomi,M3,fuxi,Xiaomi 13,#China
+312,24115RA8EC,1,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+ 5G,#China
+313,M2007J1SC,3,mob,xiaomi,Xiaomi,J1S,cas,Mi 10 Ultra,#China
+314,RMX3122,1,mob,realme,realme,,,真我 V11,#5G 运营商定制版
+315,PKG110,1,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,#China
+316,24129RT7CC,1,mob,xiaomi,Xiaomi,O10S,rodin,REDMI Turbo 4,#China
+317,PDVM00,2,mob,oppo,OPPO,,,OPPO A32,#
+318,PHS110,1,mob,oppo,OPPO,,,OPPO A1,#5G (2023)
+319,VER-AN00,1,mob,honor,荣耀,,Veyron,荣耀 Magic Vs2,#
+320,AKA-AL10,2,mob,honor,荣耀,,Asoka,荣耀 Play4T,#
+322,ADY-AL00,2,mob,huawei,华为,,Audrey,HUAWEI Pura 70,#
+323,PAAM00,1,mob,oppo,OPPO,,,OPPO R15 梦镜版,#全网通版
+324,JAD-AL00,4,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#骁龙 888
+325,TEL-AN00a,1,mob,honor,荣耀,,Teller,荣耀 X10,#5G 全网通版
+326,ALN-AL10,6,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师,#
+327,22011211C,6,mob,xiaomi,Xiaomi,L11,matisse,Redmi K50 Pro,#China
+328,PEQM00,3,mob,oppo,OPPO,,garen,OPPO Reno6,#
+329,V2419A,5,mob,vivo,vivo,,PD2419,X200 Pro mini,#
+330,RMX3370,1,mob,realme,realme,,bitra,GT NEO 2,#5G
+331,PHF110,1,mob,oppo,OPPO,,larry,OPPO K11x,#
+332,MRX-W09,3,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,#10.8 Wi-Fi
+335,22021211RC,3,mob,xiaomi,Xiaomi,L11R,munch,Redmi K40S,#China
+336,M2105K81AC,2,pad,xiaomi,Xiaomi,K81A,elish,Xiaomi Pad 5 Pro,#Wi-Fi China
+338,22041216C,11,mob,xiaomi,Xiaomi,L16,xaga,Redmi Note 11T Pro,#5G China
+339,JDN2-W09,1,pad,huawei,华为,,Jordan2,华为平板 M5 青春版,#8 英寸 Wi-Fi 版
+340,SP200,1,mob,zhixuan,华为智选,,,NZONE S7 Pro,#5G
+341,ALH-BD00,1,mob,zhixuan,华为智选,,,Hi nova 10,#5G
+342,COL-AL10,1,mob,honor,HONOR,,Columbia,HONOR 10,#
+343,M2101K9C,2,mob,xiaomi,Xiaomi,K9,renoir,Mi 11 Lite 5G,#China
+344,V1965A,1,mob,vivo,vivo,,PD1965,Y50,#
+345,FOA-AL00,1,mob,huawei,华为,,Fiona,HUAWEI nova 11,#
+346,PBBM00,1,mob,oppo,OPPO,,,OPPO A7x,#全网通版
+347,iPA2453,1,pad,vivo,vivo,,DPD2345,iQOO Pad2,#
+348,PJY110,3,mob,oppo,OPPO,,,OPPO A3 Pro,#
+349,ALI-AN00,7,mob,honor,荣耀,,Ali,荣耀 X50,#
+350,M2012K11C,5,mob,xiaomi,Xiaomi,K11,haydn,Redmi K40 Pro+,#China
+351,PHY110,2,mob,oppo,OPPO,,pangu,OPPO Find X7 Ultra,#
+352,V2314A,3,mob,vivo,vivo,,PD2314,iQOO Z8,#
+353,PHP110,5,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,#China
+354,PGT-AN00,2,mob,honor,荣耀,,Piaget,荣耀 Magic5,#
+355,VP005,1,mob,zhixuan,华为智选,,,优畅享 50 Plus,#5G
+356,V2272A,1,mob,vivo,vivo,,PD2272,iQOO Z7x,#
+357,Hera-BD00,1,mob,zhixuan,华为智选,,,Hi nova 9,#5G
+358,PCHM30,4,mob,oppo,OPPO,,,OPPO A11x,#全网通版
+359,V2048A,1,mob,vivo,vivo,,PD2048,S9e,#
+360,PACT00,1,mob,oppo,OPPO,,,OPPO R15,#移动版
+361,2312DRAABC,2,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13 5G,#China
+362,Lenovo L38012,1,mob,lenovo,联想,,austin2018,联想 K5 Note,#
+363,HD1910,1,mob,oneplus,OnePlus,,hotdog,OnePlus 7T Pro,#China
+364,RMX3092,1,mob,realme,realme,,,X7,#India
+365,PFZM10,1,mob,oppo,OPPO,,taibai,OPPO Reno8 Pro+,#
+366,ELZ-AN10,1,mob,honor,荣耀,,Elizabeth,荣耀 Magic3 Pro,#
+367,YAL-AL50,3,mob,honor,荣耀,,Yalese,荣耀 20S,#全网通版
+368,TGR-W10,1,pad,huawei,华为,,Tagore,"HUAWEI MatePad 11.5"" S",#柔光版 Wi-Fi 版
+370,V2031A,4,mob,vivo,vivo,,PD2031,Y73s,#5G
+371,PEGM00,2,mob,oppo,OPPO,,kunlun,OPPO Reno5,#全网通版
+372,BLK-AL00,2,mob,huawei,华为,,Blake,HUAWEI nova 12,#
+373,21051182C,1,pad,xiaomi,Xiaomi,K82,nabu,Xiaomi Pad 5,#China
+374,V2227A,1,mob,vivo,vivo,,PD2227,X90 Pro+,#
+375,V2324HA,1,mob,vivo,vivo,,PD2324,X100s Pro,#
+376,BRQ-AN00,3,mob,huawei,华为,,Barbie,HUAWEI nova 8 Pro,#5G
+377,DCO-AL00,5,mob,huawei,华为,,Draco,HUAWEI Mate 50 RS 保时捷设计,#
+378,YAL-AL10,1,mob,honor,荣耀,,Yale,荣耀 20 PRO,#全网通版
+379,PJG110,1,mob,oppo,OPPO,,givenchy,OPPO A2 Pro,#
+380,V2054A,3,mob,vivo,vivo,,PD2106,Y52s (t1 版),#5G
+381,V1923A,2,mob,vivo,vivo,,PD1923,NEX 3,#全网通版
+382,V2025A,1,mob,vivo,vivo,,PD2025,iQOO 5 Pro,#
+383,BMH-AN10,2,mob,honor,荣耀,,Birmingham,荣耀 30,#5G 全网通版
+384,V2366GA,1,mob,vivo,vivo,,PD2366,X100 Ultra,#
+385,HLK-AL10,1,mob,honor,荣耀,,Hulk,荣耀 9X PRO,#
+386,24129PN74C,13,mob,xiaomi,Xiaomi,O3,dada,Xiaomi 15,#China
+387,A201XM,1,mob,xiaomi,Xiaomi,L12U,diting,Xiaomi 12T Pro,#Japan (SoftBank)
+388,23116PN5BC,13,mob,xiaomi,Xiaomi,N2,shennong,Xiaomi 14 Pro,#Ti China
+389,LE2100,2,mob,oneplus,OnePlus,,lemonades,OnePlus 9R,#China
+390,ABR-AL80,1,mob,huawei,华为,,Amber,HUAWEI P50,#
+392,ALP-AN00,7,mob,honor,荣耀,,AliP,荣耀 X50 Pro|荣耀 X50 GT,1#
+393,V1809A,1,mob,vivo,vivo,,PD1809,X23,#全网通版
+394,PHM110,2,mob,oppo,OPPO,,lantian,OPPO Reno9,#
+395,RNA-AN00,1,mob,honor,荣耀,,Rena,荣耀 50 Pro,#5G 全网通版
+396,PA2373,1,pad,vivo,vivo,,DPD2221,Pad2,#
+398,RMX3850,3,mob,realme,realme,,,真我 GT Neo6 SE,#
+400,RMX3800,4,mob,realme,realme,,,真我 GT6,#
+401,OXF-AN00,2,mob,honor,荣耀,,OxfordS,荣耀 V30,#5G
+402,TRT-AL00,1,mob,huawei,华为,,Toronto,华为畅享 7 Plus,#全网通版
+403,PTP-AN00,2,mob,honor,荣耀,,,荣耀 Magic7,#
+404,PESM10,1,mob,oppo,OPPO,,,OPPO A36,#
+405,PGP110,2,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,1#China / Genshin Impact Edition
+406,23013RK75C,26,mob,xiaomi,Xiaomi,M11A,mondrian,Redmi K60,#China
+407,NX702J,1,mob,nubia,努比亚,,,Z40S Pro,#
+408,V2196A,2,mob,vivo,vivo,,PD2196,iQOO Neo6,#
+409,24122RKC7C,4,mob,xiaomi,Xiaomi,O11U,miro,REDMI K80 Pro,#China
+410,V2361GA,1,mob,vivo,vivo,,PD2361,Y200 GT,#5G
+411,GLK-AL00,1,mob,huawei,华为,,Gelk,HUAWEI nova 5i,#全网通版
+412,BND-AL10,1,mob,honor,HONOR,,Bond,HONOR 7X,#
+413,M2012K11AC,13,mob,xiaomi,Xiaomi,K11A,alioth,Redmi K40,#China
+414,SEA-AL10,3,mob,huawei,华为,,Seattle,HUAWEI nova 5 Pro,#全网通版
+415,PFTM10,1,mob,oppo,OPPO,,,OPPO A97,#
+416,V2279A,1,mob,vivo,vivo,,PD2279,Y100i,#5G
+417,MNA-AL00,1,mob,huawei,华为,,Mona,HUAWEI P60 Art,#
+418,PGBM10,5,mob,oppo,OPPO,,ali,OPPO Reno8,#
+419,PELM00,1,mob,oppo,OPPO,,,OPPO A95,#
+420,HBN-AL80,4,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro+,#
+421,CRT-AN00,3,mob,honor,荣耀,,Cartier,荣耀 X50i,#
+422,V2164KA,1,mob,vivo,vivo,,PD2164U,iQOO Z6x,#
+423,FCP-AN10,1,mob,honor,荣耀,,,荣耀 Magic V3,#
+424,SCMR-W09,1,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8 英寸,#Wi-Fi 版
+425,TAS-AN00,7,mob,huawei,华为,,Taurus,HUAWEI Mate 30,#5G 全网通版
+426,2312CRAD3C,2,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#China
+427,V1936A,4,mob,vivo,vivo,,PD1936,iQOO Neo 855 版,#全网通版
+428,V2131A,1,mob,vivo,vivo,,PD2131,iQOO Z5x,#
+429,BRC-AN00,2,mob,honor,荣耀,,Bruce,荣耀 X60,#
+430,RTE-AL00,3,mob,huawei,华为,,Rena,HUAWEI nova 9 Pro,#
+431,PGAM10,1,mob,oppo,OPPO,,wuyi,OPPO Reno8 Pro,#
+432,V1813A,1,mob,vivo,vivo,,PD1813,Z3i 标准版,#全网通版
+434,BMH-AN20,1,mob,honor,荣耀,,Birmingham,荣耀 30,#5G 全网通版
+435,BRA-AL00,4,mob,huawei,华为,,Barry,HUAWEI Mate 60,#
+436,XT2137-2,1,mob,motorola,Motorola,,ibiza,g50,#
+437,PJH110,1,mob,oppo,OPPO,,huahai,OPPO Reno11,#
+438,SHARK PRS-A0,1,mob,blackshark,BlackShark,,penrose,Black Shark 4S,#China
+439,2405CRPFDC,1,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#Wi-Fi China
+440,22081281AC,1,pad,xiaomi,Xiaomi,L81A,dagu,Xiaomi Pad 5 Pro 12.4,#China
+441,PCAM00,1,mob,oppo,OPPO,,,OPPO Reno,#全网通版
+442,V2162A,1,mob,vivo,vivo,,PD2162,S12,#
+443,LE2120,1,mob,oneplus,OnePlus,,lemonadep,OnePlus 9 Pro,#China
+444,ANP-AN00,1,mob,honor,荣耀,,AnnaP,荣耀 80 Pro,#
+445,V2141A,1,mob,vivo,vivo,,PD2141,iQOO 8 Pro,#
+446,V2312A,1,mob,vivo,vivo,,PD2312,iQOO Z8x,#
+447,LYA-AL00,1,mob,huawei,华为,,Laya,HUAWEI Mate 20 Pro,#全网通版
+448,XQ-AT72,1,mob,sony,索尼,,,Xperia 1 II,#
+450,PTP-AN10,3,mob,honor,荣耀,,,荣耀 Magic7 Pro,#
+451,V2329A,4,mob,vivo,vivo,,PD2329,iQOO 12 Pro,#
+452,STG-AL00,2,mob,huawei,华为,,Santiago,华为畅享 60X,#
+453,23078RKD5C,16,mob,xiaomi,Xiaomi,M12,corot,Redmi K60 Ultra,#China
+454,V2183A,3,mob,vivo,vivo,,PD2183,X80,#
+455,V1934A,1,mob,vivo,vivo,,PD1934,Y5s,#全网通版
+456,PHJ110,6,mob,oppo,OPPO,,,OPPO A1x|OPPO A1 活力版,1#
+457,PJF110,4,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V,#China
+458,RMX3562,1,mob,realme,realme,,,真我 GT Neo3,#150W
+459,SM-E5260,2,mob,samsung,Samsung,,f52x,Galaxy F52 5G,#
+460,V2403A,4,mob,vivo,vivo,,PD2403,iQOO Neo9S Pro+,#
+461,23046RP50C,3,pad,xiaomi,Xiaomi,M81,liuqin,Xiaomi Pad 6 Pro,#China
+462,V2220A,1,mob,vivo,vivo,,PD2220,iQOO Z6,#活力版
+463,PFVM10,1,mob,oppo,OPPO,,,OPPO A56,#
+464,NOH-AN01,1,mob,huawei,华为,,Noah,HUAWEI Mate 40 Pro,#5G
+465,CPH2583,1,mob,oneplus,OnePlus,,waffle,OnePlus 12,#North America
+466,V1831A,2,mob,vivo,vivo,,PD1831,S1,#全网通版
+467,PCDM10,1,mob,oppo,OPPO,,,OPPO Reno Z,#全网通版
+468,PJV110,2,mob,oppo,OPPO,,omega,OPPO Reno12,#
+469,ELP-AN00,3,mob,honor,荣耀,,EllieP,荣耀 200 Pro,#
+471,MT2110,3,mob,oneplus,OnePlus,,martini,OnePlus 9RT,#China
+472,HBN-AL00,4,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro,#
+473,V1986A,2,mob,vivo,vivo,,PD1986,iQOO Z1,#
+474,JEF-AN20,2,mob,huawei,华为,,Jennifer,HUAWEI nova 7,#5G 全网通版
+475,CTR-AL20,1,mob,huawei,华为,,Cartier,华为畅享 70 Pro,#
+476,CET-AL00,5,mob,huawei,华为,,Cetus,HUAWEI Mate 50,#
+477,JLN-AL00,1,mob,huawei,华为,,JuliaQN,HUAWEI nova 10 青春版,#
+478,HMA-AL00,1,mob,huawei,华为,,Hima,HUAWEI Mate 20,#全网通版
+479,V2217A,3,mob,vivo,vivo,,PD2217,iQOO 10,#
+480,RMX3043,1,mob,realme,realme,,,真我 V13,#5G 运营商定制版
+481,RMO-AN00,2,mob,honor,荣耀,,Rambo,荣耀 X40,#
+482,PACM00,1,mob,oppo,OPPO,,,OPPO R15,#全网通版
+483,VNE-AN00,1,mob,honor,荣耀,,Vinnie,荣耀畅玩 30,#5G
+484,CDY-AN90,1,mob,honor,荣耀,,CindyH,荣耀 30S,#5G 全网通版
+485,MAA-AN10,3,mob,honor,荣耀,,MiaP,荣耀 100 Pro,#
+486,PDPM00,1,mob,oppo,OPPO,,,OPPO Reno4,#全网通版
+487,SM-S9180,4,mob,samsung,Samsung,,dm3q,Galaxy S23 Ultra,#China
+488,NX729J,2,mob,nubia,努比亚,,,红魔 8 Pro|红魔 8 Pro+,1#
+489,PEGM10,2,mob,oppo,OPPO,,wudang,OPPO Reno5 K,#全网通版
+490,ADA-AL00,4,mob,huawei,华为,,Adela,HUAWEI nova 12 Pro,#
+491,NX659J,2,mob,nubia,努比亚,,,红魔 5S,#
+492,ADA-AL00U,1,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,#
+493,V2417A,3,mob,vivo,vivo,,PD2417,iQOO Z9 Turbo+,#
+494,2206122SC,4,mob,xiaomi,Xiaomi,L2S,unicorn,Xiaomi 12S Pro,#China
+495,2203121C,2,mob,xiaomi,Xiaomi,L1,thor,Xiaomi 12S Ultra,#China
+497,PTP-AN60,1,mob,honor,荣耀,,,荣耀 Magic7,#16GB+1TB
+498,RMX3366,2,mob,realme,realme,,,真我 GT 大师探索版,#
+499,DBR-W00,2,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 英寸 2023,#Wi-Fi 版
+500,ABR-AL00,1,mob,huawei,华为,,Amber,HUAWEI P50,#
+501,WLZ-AN00,3,mob,huawei,华为,,WaltzS,HUAWEI nova 6,#5G
+502,22041211AC,13,mob,xiaomi,Xiaomi,L11A,rubens,Redmi K50,#China
+503,NAM-AL00,4,mob,huawei,华为,,NottinghamN,HUAWEI nova 9,#
+504,V2148A,1,mob,vivo,vivo,,PD2148,iQOO Z5,#
+505,V2199A,1,mob,vivo,vivo,,PD2199,iQOO Neo6 SE,#
+506,RMX3706,1,mob,realme,realme,,,真我 GT Neo5,#150W
+507,V2425A,2,mob,vivo,vivo,,PD2425,iQOO Neo10,#
+508,PLA-AL10,5,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,#
+509,V2121A,2,mob,vivo,vivo,,PD2121,S10 Pro,#
+510,XT2201-2,1,mob,motorola,Motorola,,hiphic,moto edge X30,#
+511,PJD110,10,mob,oneplus,OnePlus,,waffle,OnePlus 12,#China
+512,V2278A,1,mob,vivo,vivo,,PD2278,Y77t|Y78|Y78m,2#5G
+513,JAD-AL50,2,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#麒麟 9000
+514,23113RKC6C,32,mob,xiaomi,Xiaomi,N11,vermeer,Redmi K70,#China
+515,WGRR-W09,1,pad,huawei,HUAWEI,,WagnerR,HUAWEI MatePad Pro 12.6 2022,#Wi-Fi
+516,V2313A,1,mob,vivo,vivo,,PD2313,Y100,#5G
+518,PDRM00,2,mob,oppo,OPPO,,hima,OPPO Reno5 Pro+,#
+519,2106118C,7,mob,xiaomi,Xiaomi,K8,odin,Xiaomi MIX 4,#China
+520,V2307A,11,mob,vivo,vivo,,PD2307,iQOO 12,#
+522,EBG-AN00,2,mob,honor,荣耀,,Edinburgh,荣耀 30 Pro,#5G 全网通版
+523,V2057A,1,mob,vivo,vivo,,PD2057,Y52s,#5G
+524,PCEM00,1,mob,oppo,OPPO,,,OPPO A9x,#全网通版
+525,V2047A,1,mob,vivo,vivo,,PD2047,X60 Pro,#
+526,V2309A,3,mob,vivo,vivo,,PD2309,X100,#
+528,MAG-AN00,8,mob,honor,荣耀,,MiaGT,荣耀 90 GT,#
+529,BVL-AN00,6,mob,honor,荣耀,,Bvlgari,荣耀 Magic6,#
+530,CDY-AN20,1,mob,huawei,华为,,CindyN,HUAWEI nova 7 SE,#5G 全网通版
+531,PEHT00,1,mob,oppo,OPPO,,,OPPO A93,#移动版
+532,LGE-AN10,3,mob,honor,荣耀,,Lange,荣耀 Magic4 Pro,#
+533,OXF-AN10,3,mob,honor,HONOR,,Oxford,HONOR View30 PRO,#5G
+534,V2136A,3,mob,vivo,vivo,,PD2136,iQOO 8,#
+535,CHL-AN00,1,mob,honor,荣耀,,Chanel,荣耀 X20 SE,#5G
+536,24053PY09C,1,mob,xiaomi,Xiaomi,N9,chenfeng,Xiaomi Civi 4 Pro,#China
+537,V2118A,4,mob,vivo,vivo,,PD2118,iQOO Neo5 活力版,#
+538,PKA110,2,mob,oppo,OPPO,,,OPPO A3,#5G (2024)
+539,23117RK66C,9,mob,xiaomi,Xiaomi,N11U,manet,Redmi K70 Pro,#China
+540,V2073A,2,mob,vivo,vivo,,PD2073,iQOO Z3,#
+541,V1955A,2,mob,vivo,vivo,,PD1955,iQOO 3,#
+542,V2024A,2,mob,vivo,vivo,,PD2024,iQOO 5,#
+545,V2408A,7,mob,vivo,vivo,,PD2408,iQOO 13,#
+546,CMA-AN00,5,mob,honor,荣耀,,Carmella,荣耀畅玩 30 Plus,#5G
+547,BAH3-AL00,1,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 全网通版 (麒麟 810)
+548,PECM20,1,mob,oppo,OPPO,,,OPPO A53,#(2020) 全网通版
+549,PKC110,1,mob,oppo,OPPO,,konka,OPPO Find X8 Pro,#
+550,PFEM10,1,mob,oppo,OPPO,,baize,OPPO Find X5 Pro,#
+551,PGZ110,5,mob,oneplus,OnePlus,,qqcandy,OnePlus Ace Race,#China
+553,PGT110,1,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
+554,PJA110,10,mob,oneplus,OnePlus,,xigua,OnePlus Ace 2 Pro,#China / Genshin Impact Edition
+555,HMA-TL00,1,mob,huawei,华为,,Hima,HUAWEI Mate 20,#移动 4G+ 版
+556,PGW110,1,mob,oppo,OPPO,,lvzhou,OPPO Reno9 Pro+,#
+557,TB128FU,1,pad,lenovo,联想,,oak,联想启天 K10 Pro,#10.61 英寸 Wi-Fi 版
+558,V2304A,8,mob,vivo,vivo,,PD2304,iQOO 11S,#
+560,LGE-AN20,1,mob,honor,荣耀,,Lange,荣耀 Magic4 至臻版,#

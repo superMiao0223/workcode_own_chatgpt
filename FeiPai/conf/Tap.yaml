@@ -1,0 +1,18 @@
+#飞牌TapConfig
+headers:
+  cookie: ""
+  referer: "https://developer.taptap.cn/271598/app/720785/dashboard?stats=store&store=cn"
+  user-agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+  x-dc-xsrf-token: "5e6f22e1-1b31-4d72-a296-d9e5f25a502d"
+  x-region: "zh"
+  x-requested-with: "XMLHttpRequest"
+  x-ua: "V=1&PN=DevCenter&LANG=zh_CN&VN=0.1.0&LOC=CN&PLT=PC&UID=6ef123b5-e832-4f62-8810-03006cb064cf"
+  x-xsrf-token: "undefined"
+
+payload:
+  developer_id: 271598
+  app_id: 720785
+  start_date: "2024-08-26"
+  end_date: "2025-04-12"
+  platform: ""
+  game: "FlyingCard"
